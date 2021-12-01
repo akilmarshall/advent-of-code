@@ -17,8 +17,7 @@ class Day1:
         '''
         inc = 0
         prev = None
-        for x in values:
-            cur = int(x)
+        for cur in values:
             if prev is not None:
                 if prev < cur:
                     inc += 1
@@ -30,12 +29,6 @@ class Day1:
         print(self.f(values))
 
     def part2(self):
-        def windows():
-            # computes a list of 3 value sums of the input
-            out = []
-            l = list(inputs(self.fname))
-            for a, b, c in zip(l[0:], l[1:], l[2:]):
-                out.append(int(a) + int(b) + int(c))
-            return out
-
-        print(self.f(windows()))
+        l = list(inputs(self.fname))
+        print(self.f([int(a) + int(b) + int(c)
+              for a, b, c in zip(l[0:], l[1:], l[2:])]))
