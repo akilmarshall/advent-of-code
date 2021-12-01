@@ -19,8 +19,7 @@ class Day1:
         prev = None
         for cur in values:
             if prev is not None:
-                if prev < cur:
-                    inc += 1
+                inc += (prev < cur)
             prev = cur
         return inc
 
@@ -32,3 +31,8 @@ class Day1:
         l = list(inputs(self.fname))
         print(self.f([int(a) + int(b) + int(c)
               for a, b, c in zip(l[0:], l[1:], l[2:])]))
+
+
+obj = Day1()
+obj.part1()
+obj.part2()
