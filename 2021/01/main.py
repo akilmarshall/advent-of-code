@@ -13,7 +13,7 @@ class Day1:
 
     def f(self, values: List[int]):
         '''
-        given a sequence count the number of times it incremented
+        given a sequence count the number of times it increases (strict)
         '''
         inc = 0
         prev = None
