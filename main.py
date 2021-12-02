@@ -1,7 +1,7 @@
 def inputs(fname):
     with open(fname) as f:
         for line in f.readlines():
-            yield line
+            yield line.strip()
 
 
 class DayX:
