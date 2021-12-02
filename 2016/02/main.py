@@ -1,5 +1,3 @@
-
-
 def inputs(fname):
     with open(fname) as f:
         for line in f.readlines():

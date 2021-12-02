@@ -1,6 +1,8 @@
 # Advent of Code
 A repository of my solutions for the [advent of code](https://adventofcode.com/about) programming challenges
 
+Some solutions might have been lost to time but will be replaced in the future.
+
 Total stars: 44/175
 
 ## 2021
