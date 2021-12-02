@@ -3,7 +3,7 @@ A repository of my solutions for the [advent of code](https://adventofcode.com/a
 
 Some solutions might have been lost to time but will be replaced in the future.
 
-Total stars: 44/175
+Total stars: 46/175
 
 ## 2021
 
@@ -134,11 +134,11 @@ stars: 6
 
 ## 2016
 
-stars: 4
+stars: 6
 
 - ~~day 01~~
 - ~~day 02~~
-- day 03
+- ~~day 03~~
 - day 04
 - day 05
 - day 06
