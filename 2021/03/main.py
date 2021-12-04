@@ -1,6 +1,6 @@
 from collections import Counter
-from typing import List, Tuple
 from itertools import count
+from typing import List, Tuple
 
 
 def inputs(fname):
