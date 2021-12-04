@@ -3,14 +3,15 @@ A repository of my solutions for the [advent of code](https://adventofcode.com/a
 
 Some solutions might have been lost to time but will be replaced in the future.
 
-Total stars: 47/175
+Total stars: 49/175
 
 ## 2021
 
-stars: 4
+stars: 6
 
 - ~~day 01~~
 - ~~day 02~~
+- ~~day 03~~
 
 ## 2020
 
