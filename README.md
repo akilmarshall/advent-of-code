@@ -17,7 +17,7 @@ stars: 12
 
 ## 2020
 
-stars: 14
+stars: 16
 
 - ~~day 01~~
 - ~~day 02~~
