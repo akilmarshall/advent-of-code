@@ -17,7 +17,7 @@ stars: 12
 
 ## 2020
 
-stars: 16
+stars: 17
 
 - ~~day 01~~
 - ~~day 02~~
@@ -28,7 +28,7 @@ stars: 16
 - day 07 (half)
 - ~~day 08~~
 - ~~day 09~~
-- day 10
+- day 10 (half)
 - day 11
 - day 12
 - day 13
