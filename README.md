@@ -27,7 +27,7 @@ stars: 14
 - ~~day 06~~
 - day 07 (half)
 - ~~day 08~~
-- day 09
+- ~~day 09~~
 - day 10
 - day 11
 - day 12
