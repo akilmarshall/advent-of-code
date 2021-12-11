@@ -5,7 +5,7 @@ Some solutions might have been lost to time but will be replaced in the future.
 
 ## 2021
 
-stars: 16
+stars: 20
 
 - ~~day 01~~
 - ~~day 02~~
@@ -17,6 +17,7 @@ stars: 16
 - ~~day 08~~
 - ~~day 09~~
 - ~~day 10~~
+- ~~day 11~~
 
 ## 2020
 
