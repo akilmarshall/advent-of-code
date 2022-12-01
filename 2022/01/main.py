@@ -12,10 +12,7 @@ with open("input") as f:
             load.append(int(line.strip()))
 
 def part_1():
-    sums_ = []
-    for load in reindeer:
-        sums_.append(sum(load))
-    print(max(sums_))
+    print(max(map(sum, reindeer)))
 
 def part_2():
     heap = []
